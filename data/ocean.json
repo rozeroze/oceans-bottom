@@ -1,0 +1,16 @@
+{
+	"member": [
+		{
+			"chk": true,
+			"name": "rozeroze"
+		},
+		{
+			"chk": false,
+			"name": "friend1"
+		},
+		{
+			"chk": false,
+			"name": "friend2"
+		}
+	]
+}
