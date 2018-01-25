@@ -11,6 +11,10 @@
 		{
 			"chk": false,
 			"name": "friend2"
+		},
+		{
+			"chk": true,
+			"name": "doppelganger"
 		}
 	]
 }
