@@ -2,7 +2,7 @@
 	"member": [
 		{
 			"chk": true,
-			"name": "rozeroze"
+			"name": "doppelganger"
 		},
 		{
 			"chk": false,
@@ -11,10 +11,6 @@
 		{
 			"chk": false,
 			"name": "friend2"
-		},
-		{
-			"chk": true,
-			"name": "doppelganger"
 		}
 	]
 }
